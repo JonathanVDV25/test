@@ -1,0 +1,3 @@
+[submodule "pipelineInfra2"]
+	path = pipelineInfra2
+	url = https://github.com/JonathanVDV25/pipelineInfra2.git
